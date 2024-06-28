@@ -5,7 +5,6 @@ Ce projet en groupe de quatre étudiants dans le cadre du cours “Atelier Prati
 L’objectif de ce projet est de construire un modèle capable de résoudre des jeux supportés par Gymnasium, basé sur un arbre de décision, le Monte Carlo Tree Search, et son couplage à des réseaux de neurones profonds. Une seconde méthode est aussi explorée avec le Deep Q Learning qui reprend également des réseaux de neurones comme base d’implémentation. Au cours de ce rapport seront détaillées les activités de réalisation du projet, les problématiques rencontrées et le cas échéant les solutions proposées.
 
 
-<<<<<<< HEAD
 ## Créateurs
 
 Mathieu
@@ -15,11 +14,3 @@ Félix BONIN
 Alexandre RADIN
 
 Béatrice GARCIA CEGARRA
-=======
-##Créateurs
-
-Mathieu
-Félix BONIN
-Alexandre RADIN
-Béatrice GARCIA CEGARRA
->>>>>>> fd989918f56bc64c32fbcc7061a2cf8403d9975a
