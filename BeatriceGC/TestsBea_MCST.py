@@ -3,7 +3,7 @@
     Projet : Agent intelligent avec Gymnasium
 
     Date de création : 11/06/2024
-    Date de modification : 13/06/2024
+    Date de modification : 16/06/2024
 
     Créateur : Béatrice GARCIA CEGARRA
     Cours : Atelier Pratique en IA 2
@@ -104,7 +104,8 @@ class MCTS:
         tot_reward = 0
 
         while True:
-
+            print("number of actions : ", self.env.action_space.n)
+            print(self.env.action_space)
             act = random.randrange(self.env.action_space.n)
             # TODO: Ajouter un réseau de neurones à la place du random pour choix action rollout (Policy Network)
 
