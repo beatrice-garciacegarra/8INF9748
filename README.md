@@ -7,7 +7,7 @@ L’objectif de ce projet est de construire un modèle capable de résoudre des 
 
 ## Créateurs
 
-Mathieu
+Mathieu LE GOUILL
 
 Félix BONIN
 
